@@ -1,0 +1,23 @@
+name: LaravelDay
+og_image: http://2019.laravelday.it/img/confs/laravelday/logo.png
+slug: laravelday
+url: http://2019.laravelday.it
+where_when: Verona, 28 / 29 Novembre 2019
+year: 2018
+since: 2017
+call_for_paper_url: https://goo.gl/forms/VHd8K5szFOhUQX832
+call_for_paper: true
+talks_available: false
+schedule_available: false
+has_workshop: false
+
+iubenda:
+  cookiePolicyId: 23260449
+  siteId: 1092309
+  lang: it
+  enableRemoteConsent: true
+  localConsentDomain: laravelday.it
+  rebuildIframe: true
+
+google:
+  tag_manager_id: GTM-KJHB748

@@ -1,0 +1,66 @@
+# place images in:
+# img/conf-name/speaker/file.jpg
+list:
+  -
+    id: alessandro-cappellozza
+    description:
+    image: alessandro-cappellozza.jpg
+    first_name: Alessandro
+    last_name: Cappellozza
+    twitter: acappellozza
+
+  -
+    id: christian-nastasi
+    description:
+    image: christian-nastasi.jpg
+    first_name: Christian
+    last_name: Nastasi
+    twitter: c_nastasi
+
+  -
+    id: damiano-petrungaro
+    description:
+    image: damiano-petrungaro.jpg
+    first_name: Damiano
+    last_name: Petrungaro
+    twitter: damiano_dev
+
+  -
+    id: dario-tranchitella
+    description:
+    image: dario-tranchitella.jpg
+    first_name: Dario
+    last_name: Tranchitella
+    twitter: tranchitellad
+
+  -
+    id: gianfranco-castro
+    description:
+    image: gianfranco-castro.jpg
+    first_name: Gianfranco
+    last_name: Castro
+    twitter: casgin
+
+  -
+    id: matteo-mangoni
+    description:
+    image: matteo-mangoni.jpg
+    first_name: Matteo
+    last_name: Mangoni
+    twitter: kage0x
+
+  -
+    id: riccardo-scasseddu
+    description:
+    image: riccardo-scasseddu.jpg
+    first_name: Riccardo
+    last_name: Scasseddu
+    twitter: ennetech
+
+  -
+    id: santo-caruso
+    description:
+    image: santo-caruso.jpg
+    first_name: Santo
+    last_name: Caruso
+    twitter: ssantinocaruso
