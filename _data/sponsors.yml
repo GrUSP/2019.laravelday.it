@@ -55,8 +55,8 @@ gold:
       url: https://remote-developer.io/?utm_source=laravelday
       image: remote-developer.svg
     -
-      url: https://www.ideato.it/?utm_source=laravelday
-      image: ideato.svg
+      url: https://www.flowing.it/?utm_source=laravelday
+      image: flowing.svg
 silver:
   price: € 750
   offer:
