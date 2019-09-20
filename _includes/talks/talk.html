@@ -61,20 +61,24 @@
         {% for current_speaker_id in speaker_id %}
           {% for speaker in site.data.speakers.list %}
             {% if speaker.id == current_speaker_id %}
+              {% if speaker.twitter %}
               <a href="https://twitter.com/{{ speaker.twitter }}" class="talk__speaker-twitter">
                 <i class="icon-twitter"></i>
                 @{{ speaker.twitter }}
               </a>
+              {% endif %}
             {% endif %}
           {% endfor %}
         {% endfor %}
       {% else %}
         {% for speaker in site.data.speakers.list %}
         {% if speaker.id == speaker_id %}
+          {% if speaker.twitter %}
           <a href="https://twitter.com/{{ speaker.twitter }}" class="talk__speaker-twitter">
             <i class="icon-twitter"></i>
             @{{ speaker.twitter }}
           </a>
+          {% endif %}
           {% break %}
         {% endif %}
         {% endfor %}
