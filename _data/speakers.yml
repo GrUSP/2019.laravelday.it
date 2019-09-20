@@ -1,10 +1,37 @@
 # place images in:
 # img/conf-name/speaker/file.jpg
 list:
-  # -
-  #   id: alessandro-cappellozza
-  #   description:
-  #   image: alessandro-cappellozza.jpg
-  #   first_name: Alessandro
-  #   last_name: Cappellozza
-  #   twitter: acappellozza
+#   -
+#     id: alessandro-cappellozza
+#     description:
+#     image: alessandro-cappellozza.jpg
+#     first_name: Alessandro
+#     last_name: Cappellozza
+#     twitter: acappellozza
+  -
+    id: giacomo-fabbian
+    description: >
+      Sviluppatore Full Stack. Specializzato in linguaggi come Java, PHP, Javascript, SQL, MongoDB.
+      Co-fondatore di Offline Agency, dove si occupa di consulenza e sviluppo di sistemi di integrazione e gestione dei
+      dati.
+    image: giacomo-fabbian.jpg
+    first_name: Giacomo
+    last_name: Fabbian
+  -
+    id: leonardo-rossi
+    description: >
+      Si occupa di sviluppo di applicazioni web da circa 10 anni. Freelancer da sempre (o quasi), attualmente è un
+      consulente esterno presso Gucci.
+    image: leonardo-rossi.jpg
+    first_name: Leonardo
+    last_name: Rossi
+    twitter: leorossi
+  -
+    id: riccardo-scasseddu
+    description: >
+      Si occupa di sviluppo di applicazioni web da circa 10 anni. Freelancer da sempre (o quasi), attualmente è un
+      consulente esterno presso Gucci.
+    image: riccardo-scasseddu.jpg
+    first_name: Riccardo
+    last_name: Scasseddu
+    twitter: ennetech
