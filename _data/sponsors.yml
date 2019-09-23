@@ -49,11 +49,12 @@ gold:
   max: 8
   list:
     -
-      url: https://www.workwave.com/?utm_source=laravelday
-      image: workwave.svg
-    -
       url: https://www.flowing.it/?utm_source=laravelday
       image: flowing.svg
+    -
+      url: https://www.workwave.com/?utm_source=laravelday
+      image: workwave.svg
+
 silver:
   price: € 750
   offer:
@@ -65,6 +66,9 @@ silver:
     - 3 biglietti scontati del 10%
   max: 16
   list:
+    -
+      url: https://www.cooder.it/?utm_source=laravelday
+      img: cooder.svg
 
 bronze:
   price: € 500
@@ -74,3 +78,6 @@ bronze:
     - 2 biglietti scontati del 10%
   max: 32
   list:
+    -
+      url: https://playmoove.com/?utm_source=laravelday
+      image: playcar.svg
