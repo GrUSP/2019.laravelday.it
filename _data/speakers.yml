@@ -38,3 +38,13 @@ list:
     first_name: Riccardo
     last_name: Scasseddu
     twitter: ennetech
+  -
+    id: roberto-gallea
+    description: >
+      Lavora presso l'Area Servizi a Rete dell'Università degli Studi di Palermo. Dottore di Ricerca in
+      Ingegneria Informatica progetta e sviluppa software ed hardware per il web, l'IoT e la sintesi audio per
+      strumentazioni elettroniche. Autore di numerose pubblicazioni scientifiche e formatore in ambito professionale,
+      scolastico ed accademico.
+    image: roberto-gallea.jpg
+    first_name: Roberto
+    last_name: Gallea
