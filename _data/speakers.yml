@@ -29,8 +29,9 @@ list:
   -
     id: riccardo-scasseddu
     description: >
-      Si occupa di sviluppo di applicazioni web da circa 10 anni. Freelancer da sempre (o quasi), attualmente è un
-      consulente esterno presso Gucci.
+      Laureato in informatica nel 2018 con una tesi riguardante lo sfruttamento delle falle di
+      sicurezza presenti nelle reti automotive (CAN Bus). Dal 2019 è CTO di Playcar, azienda leader nel campo della
+      shared mobility con la piattaforma SaaS "Playmoove".
     image: riccardo-scasseddu.jpg
     first_name: Riccardo
     last_name: Scasseddu
