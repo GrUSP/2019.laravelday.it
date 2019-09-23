@@ -12,6 +12,17 @@
     ma sul rapporto qualità e time to market.
 -
   speaker_id:
+    - filippo-galante
+  title: Controllers, Policies e richieste asincrone
+  extract: >
+    Le policy di Laravel sono il miglior strumento a disposizione di uno sviluppatore per poter garantire agli end user
+    una precisa politica di autorizzazione all'accesso e modifica delle risorse. Obiettivo del talk è di dare una
+    panoramica a tutto tondo sull'utilizzo di questo strumento all'interno di un progetto Laravel 6.0, con un focus
+    sulla magia compiuta dal framework dietro le quinte. Per rendere il tutto più interessante, si entrerà nel dettaglio
+    di una Single Page App esemplificativa e di come le richieste asincrone generate tramite il client HTTP axios
+    debbano gestire correttamente i response inviati dai controller successivamente alla verifica di una o più policy.
+-
+  speaker_id:
     - giacomo-fabbian
   title: MongoDB vs MySQL in applicazioni Laravel
   extract: >

@@ -11,6 +11,15 @@ list:
     last_name: Cappellozza
     twitter: acappellozza
   -
+    id: filippo-galante
+    description: >
+      Ho mosso i primi passi nel mondo del web a partire dal 2007, anno in cui sono entrato all'università.
+      Seguendo la filosofia dell'hacking, ho ampliato le mie conoscenze in questo ambito sia a livello teorico che a
+      livello pratico. Mi definisco un Full Stack Web Developer e Laravel Lover (sin dalla versione 4.2).
+    image: filippo-galante.jpg
+    first_name: Filippo
+    last_name: Galante
+  -
     id: giacomo-fabbian
     description: >
       Sviluppatore Full Stack. Specializzato in linguaggi come Java, PHP, Javascript, SQL, MongoDB.
