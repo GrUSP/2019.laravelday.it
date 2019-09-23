@@ -3,7 +3,9 @@
 list:
   -
     id: alessandro-cappellozza
-    description:
+    description: Dopo la laurea in ingegneria informatica mi sono dedicato allo sviluppo web di applicativi prima e
+      infrastrutture poi; da diversi anni lavoro in ambito IIOT cercando di integrare telemetria e telecontrollo tramite
+      .Net, PHP e NodeJS nel Cloud.
     image: alessandro-cappellozza.jpg
     first_name: Alessandro
     last_name: Cappellozza
