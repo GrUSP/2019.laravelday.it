@@ -1,13 +1,13 @@
 # place images in:
 # img/conf-name/speaker/file.jpg
 list:
-#   -
-#     id: alessandro-cappellozza
-#     description:
-#     image: alessandro-cappellozza.jpg
-#     first_name: Alessandro
-#     last_name: Cappellozza
-#     twitter: acappellozza
+  -
+    id: alessandro-cappellozza
+    description:
+    image: alessandro-cappellozza.jpg
+    first_name: Alessandro
+    last_name: Cappellozza
+    twitter: acappellozza
   -
     id: giacomo-fabbian
     description: >
