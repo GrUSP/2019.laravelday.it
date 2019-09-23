@@ -11,6 +11,13 @@ list:
     last_name: Cappellozza
     twitter: acappellozza
   -
+    id: dennis-malavolta
+    description: Senior developer da un anno presso Cooder e-commerce digital e-business agency.
+    image: dennis-malavolta.jpg
+    first_name: Dennis
+    last_name: Malavolta
+    twitter: DennisPowerfull
+  -
     id: filippo-galante
     description: >
       Ho mosso i primi passi nel mondo del web a partire dal 2007, anno in cui sono entrato all'università.
