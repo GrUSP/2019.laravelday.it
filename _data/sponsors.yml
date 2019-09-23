@@ -68,7 +68,7 @@ silver:
   list:
     -
       url: https://www.cooder.it/?utm_source=laravelday
-      img: cooder.svg
+      image: cooder.svg
 
 bronze:
   price: € 500
