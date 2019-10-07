@@ -35,6 +35,7 @@ list:
     image: giacomo-fabbian.jpg
     first_name: Giacomo
     last_name: Fabbian
+    twitter: FabbianGiacomo
   -
     id: leonardo-rossi
     description: >
