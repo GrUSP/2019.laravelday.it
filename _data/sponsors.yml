@@ -84,3 +84,6 @@ bronze:
     -
       url: https://playmoove.com/?utm_source=laravelday
       image: playcar.svg
+    -
+      url: https://www.seneca.it/?utm_source=laravelday
+      image: seneca.svg
