@@ -66,30 +66,18 @@
     - roberto-gallea
   title: Test Driven Development con Laravel
   extract: >
-    Durante il talk verrà introdotta la pratica della disciplina del Test Driven Development. Dopo cenni preliminari
-    sulla storia del TDD e sulle sue motivazioni, si analizzeranno dei casi di studio usando Laravel e PHPunit.
-    Nel dettaglio verranno trattati i seguenti temi:
-
-    - La pratica del TDD
-    - Differenze tra Feature ed Unit testing
-    - L'uso delle asserzioni
-    - Integration testing e mocking
-    - (compatibilmente col tempo a disposizione) browser-tests con l'utilizzo di Selenium
-
-    Per partecipare al talk è richiesta esclusivamente una conoscenza di medio livello di Laravel/PHP
+    Testare correttamente il proprio codice è una necessità imprescindibile per realizzare software robusto, pulito e di
+    qualità. Il Test Driven Development è la principale metodologia di riferimento per la definizione di test-suite
+    automatizzate. Il talk descrive le motivazioni, i concetti ed i principi fondamentali di questa disciplina. Tali
+    elementi verranno applicati ad un caso d'uso, e, utilizzando Laravel e PHPUnit, saranno affrontati i concetti di
+    Feature ed Unit testing, l'uso delle asserzioni, l'Integration testing ed il mocking.
 -
   speaker_id:
     - roberto-gallea
   title: Creazione di package Laravel
   extract: >
-    Il talk descrive il ciclo di creazione e manutenzione di un package Laravel da utilizzare con composer.
-    In particolare verranno descritte le seguenti fasi:
-
-    - Definizione del package e delle sue funzionalità
-    - Pubblicazione di configurazioni, assets ed altri componenti
-    - Pubblicazione su GitHub
-    - Pubblicazione su packagist
-    - Automazione dell'aggiornamento su packagist in seguito ad un push
-    - Gestione delle versioni
-
-    Al fine di comprendere meglio i contenuti, si consiglia la conoscenza base di Laravel, composer e git.
+    Il talk descrive il ciclo di creazione e manutenzione di un package Laravel da utilizzare con composer. In particolare
+    verranno descritte le seguenti fasi: Definizione del package e delle sue funzionalità; Pubblicazione di configurazioni,
+    assets ed altri componenti; Pubblicazione su GitHub; Pubblicazione su packagist; Automazione dell'aggiornamento su
+    packagist in seguito ad un push; Gestione delle versioni. Al fine di comprendere meglio i contenuti, si consiglia
+    la conoscenza base di Laravel, composer e git.
